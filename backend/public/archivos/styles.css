@@ -75,3 +75,12 @@ a:visited { text-decoration: none !important; }
   padding-left: 300px;
   padding-right: 300px;
 }
+
+.image{
+  margin: auto;
+}
+img{
+  height: 50%;
+  width: 50%;
+}
+
